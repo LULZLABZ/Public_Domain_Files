@@ -1,4 +1,4 @@
-<h4>LILZABZ: A Compartmentalised Overview</h4>
+<h4>LILZABZ: A Compartmentalized Overview</h4>
 <p data-sourcepos="3:1-3:81"><strong>LILZABZ</strong><span> is a pioneering initiative dedicated to the arcane pursuit of memetic engineering, a field that seeks to manipulate the propagation and evolution of ideas and cultural information. Our research delves into the esoteric intersection of memetics, cognitive science, and technology, aiming to develop tools and techniques for the creation and analysis of memes that can influence thought, behavior, and culture.</span></p>
 <p data-sourcepos="3:1-3:81">&nbsp;</p>
 <p data-sourcepos="5:1-5:20"><strong>Key Areas of Focus:</strong></p>
@@ -6,8 +6,10 @@
     <li data-sourcepos="7:1-7:171"><strong>Memetic Alchemy:</strong><span> We engage in the alchemical process of crafting and disseminating memes that can effectively target specific audiences and achieve desired outcomes.</span></li>
     <li data-sourcepos="8:1-8:211"><strong>Cognitive Modeling:</strong><span> We construct computational models to simulate the spread and evolution of memes within populations, allowing us to better comprehend the factors that influence their success or failure.</span></li>
     <li data-sourcepos="9:1-9:259"><strong>Hyperstylitic Meme Design:</strong><span> We explore the potential of hyperstylitics, a methodology that emphasizes the creation of unconventional and transformative artifacts, to design memes that disrupt established thought patterns and inspire new ways of thinking.</span></li>
-    <li data-sourcepos="10:1-11:0"><strong>Ethical Considerations:</strong><span> We are committed to addressing the ethical implications of memetic engineering and developing guidelines for responsible practice.</span></li>
-    <li data-sourcepos="10:1-11:0">&nbsp;</li>
+    <li data-sourcepos="10:1-11:0">
+        <p><strong>Ethical Considerations:</strong><span> We are committed to addressing the ethical implications of memetic engineering and developing guidelines for responsible practice.</span></p>
+        <p>&nbsp;</p>
+    </li>
 </ul>
 <p data-sourcepos="12:1-12:17"><strong>Our Approach:</strong></p>
 <ul data-sourcepos="14:1-14:136">
